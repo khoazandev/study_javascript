@@ -1,2 +1,3 @@
-var fullName = "Lee David'la le van khoa'";
-console.log(fullName);
+let age;
+
+console.log(age); // undefined
